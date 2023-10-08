@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This report provides an in-depth analysis of the sentiment analysis project that leverages BERT embeddings. The project aimed to automate the categorization of customer reviews into three sentiment categories: positive, negative, and neutral. Below, we provide a step-by-step account of the entire project, including data collection, preprocessing, model selection, fine-tuning, evaluation, and deployment.
+The project aimed to automate the categorization of customer reviews into three sentiment categories: positive, negative, and neutral. Below, we provide a step-by-step account of the entire project, including data collection, preprocessing, model selection, fine-tuning, evaluation, and deployment.
 
 ## Step 1: Data Collection
 
