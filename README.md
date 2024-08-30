@@ -18,7 +18,7 @@ The project aimed to automate the categorization of customer reviews into three 
 
 - **Tokenization:** We tokenized the raw text using BERT's tokenizer, which breaks text into individual tokens or subwords.
 
-- **Encoding:** Text sequences were encoded into numerical format using BERT's vocabulary, which assigns a unique ID to each token. We also applied padding to ensure all sequences have the same length.
+- **Encoding:** Text sequences were encoded into a numerical format using BERT's vocabulary, which assigns a unique ID to each token. We also applied padding to ensure all sequences have the same length.
 
 - **Data Split:** The dataset was divided into a training set (80%) and a testing set (20%) to evaluate model performance.
 
