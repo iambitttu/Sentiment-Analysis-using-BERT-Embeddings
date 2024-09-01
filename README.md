@@ -8,7 +8,7 @@ The project aimed to automate the categorization of customer reviews into three 
 
 **Description:** In this initial phase, we collected a comprehensive dataset containing student reviews.
 
-**Source:** The dataset was obtained from a publicly available dataset on sentiment analysis in the edtech domain. It consisted of text reviews and corresponding sentiment labels.
+**Source:** The dataset on sentiment analysis in the ed-tech domain was obtained from a publicly available dataset. It consisted of text reviews and corresponding sentiment labels.
 
 **Size:** The dataset comprises thousands of student reviews.
 
