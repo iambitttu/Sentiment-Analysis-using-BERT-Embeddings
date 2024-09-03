@@ -32,7 +32,7 @@ The project aimed to automate the categorization of customer reviews into three 
 
 **Description:** The BERT model was fine-tuned for sentiment classification on our specific dataset.
 
-- **Classification Layer:** We added a custom classification layer on top of the BERT model. This layer has three output neurons, corresponding to the three sentiment classes (positive, negative, neutral).
+- **Classification Layer:** We added a custom classification layer on top of the BERT model. This layer has three output neurons, corresponding to the three sentiment classes (positive, negative, and neutral).
 
 - **Loss Function:** For optimization, we employed the Cross-Entropy Loss function.
 
@@ -43,7 +43,7 @@ The project aimed to automate the categorization of customer reviews into three 
 **Description:** After fine-tuning, we assessed the model's performance using a battery of evaluation metrics.
 
 **Metrics:**
-- **Accuracy:** The overall accuracy of the model on the test set.
+- **Accuracy:** The model's overall accuracy on the test set.
 - **Precision, Recall, and F1-score:** These metrics were computed for each sentiment class (positive, negative, neutral).
 - **Confusion Matrix:** To visualize the model's classification performance.
 
