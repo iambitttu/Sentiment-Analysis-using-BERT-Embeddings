@@ -40,7 +40,7 @@ The project aimed to automate the categorization of customer reviews into three 
 
 ## Step 5: Model Evaluation
 
-**Description:** After fine-tuning, we assessed the model's performance using a battery of evaluation metrics.
+**Description:** After fine-tuning, we assessed the model's performance using several evaluation metrics.
 
 **Metrics:**
 - **Accuracy:** The model's overall accuracy on the test set.
