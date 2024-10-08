@@ -55,7 +55,7 @@ The project aimed to automate the categorization of customer reviews into three 
 
 ## Step 7: Conclusion
 
-**Summary:** The sentiment analysis project successfully utilized BERT embeddings to automate the categorization of customer reviews into positive, negative, and neutral sentiments. This model demonstrates its effectiveness in streamlining sentiment analysis processes and improving customer feedback analysis.
+**Summary:** The sentiment analysis project successfully utilized BERT embeddings to automate categorizing customer reviews into positive, negative, and neutral sentiments. This model demonstrates its effectiveness in streamlining sentiment analysis processes and improving customer feedback analysis.
 
 **Future Work:** Future enhancements may include exploring domain-specific BERT variants, handling multilingual reviews, and continuously updating the model to adapt to evolving language patterns.
 
